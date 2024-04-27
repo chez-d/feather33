@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/parts/parts.kicad_sym")(options "")(descr ""))
+  (lib (name "M.2-Templates-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/parts/M.2-Templates-eagle-import.kicad_sym")(options "")(descr ""))
+)
