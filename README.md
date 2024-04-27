@@ -2,7 +2,7 @@
 Feather form-factor board with a 1.4GHz quad-core A33 from Allwinner.
 
 **Watch out!** I haven't tested this board yet. ***No guarantees*** on anything including DDR!!!
-Any <=512MB DDR3L should work.
+For assembly, any <=512MB DDR3L should* work (no MCP). 
 
 A 50p board-to-board connector is added to break out another USB, audio, and parallel RGB among other things
 
